@@ -4,7 +4,7 @@ Este es un proyecto de conversor de monedas en Java que permite convertir montos
 
 ## Descripción
 
-El **Conversor de Monedas** toma como entrada el código de la moneda de origen, la moneda de destino y el monto que deseas convertir. Utiliza la API de **ExchangeRate-API** para obtener las tasas de cambio actuales y realiza la conversión en tiempo real. El programa también muestra la tasa de cambio del día, el símbolo de cada moneda y el resultado de la conversión con los decimales correspondientes.
+El **Conversor de Monedas** toma como entrada el código de la moneda de origen, la moneda de destino y el monto que deseas convertir. Utiliza la API de **ExchangeRate-API** para obtener las tasas de cambio actuales y realiza la conversión en tiempo real. El programa también muestra la tasa de cambio del día, el símbolo de cada moneda y el resultado de la conversión con los decimales correspondientes. el codigo y la data se encuentra en el branche master 
 
 ## Características
 
